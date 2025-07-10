@@ -1,5 +1,0 @@
-Line 1 - added from local
-
-Line 2 - added from GitHub
-
-Line 3 - added for pull demo
